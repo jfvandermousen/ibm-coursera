@@ -1,1 +1,2 @@
-# Create first python
+#Display the output
+print("New project")
